@@ -15,7 +15,7 @@
  */
 
 #include "mbed.h"
-#include "HIDServiceBase.h"
+#include "ble-hid/HIDServiceBase.h"
 
 HIDServiceBase::HIDServiceBase(BLE          &_ble,
                                report_map_t reportMap,

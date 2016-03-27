@@ -1,0 +1,13 @@
+{
+  "name": "ble-hid",
+  "version": "0.0.0",
+  "description": "HID implementation for the mbed BLE stack",
+  "keywords": [],
+  "author": "Jean-Phillipe Brucker <Jean-Philippe.Brucker@arm.com>, Matthew Else <e <matthewelse1997@gmail.com>",
+  "repository": {
+    "url": "git+https://github.com/matthewelse/ble-hid",
+    "type": "git"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
